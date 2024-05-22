@@ -1,4 +1,4 @@
-# YTube Home Page Music Filter
+# YTube Home Page Music Filter, a chrome extension
 
 - I used to listen to a lot of music without thinking, which hurt my productivity. So, I made a Chrome extension to hide any music videos recommended on the YouTube home page.
 - Not super efficient but it works reasonably well.
